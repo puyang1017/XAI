@@ -17,3 +17,5 @@ public XAI(java.lang.String host,int port,XAICallback c0)
 *********************************/
 public ERRNO start(long luid,java.lang.String pwd,java.lang.String ca_file,java.lang.String dir_persistence)
 
+
+
