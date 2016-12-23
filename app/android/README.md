@@ -354,6 +354,9 @@ public static int gatewayLocalBind(long luid_mobile,java.util.ArrayList<java.lan
 public static boolean gatewayLocalBind(long luid_mobile,java.lang.String gateway_ip,int apsn_gateway,java.lang.String name)
 
 
+
+
+
 public enum ERRNOextends java.lang.Enum<ERRNO>
 
 ARG_INCORRECT
