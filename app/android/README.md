@@ -8,6 +8,7 @@ Android SDK
 参数2：云服务器TCP端口
 参数3：消息回调接口
 *********************************/
+
 public XAI(java.lang.String host,int port,XAICallback c0)
 
 /*******************************
